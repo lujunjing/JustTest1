@@ -1,0 +1,6 @@
+framework module JustTest1 {
+  umbrella header "JustTest1-umbrella.h"
+
+  export *
+  module * { export * }
+}
